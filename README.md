@@ -19,5 +19,5 @@ Applying Naïve Bayes Classifier on a Real-Life Scenario Using Python
 | **Data Preprocessing** | Data cleaning and preparation steps |
 | **Algorithm** | Model building and training process |
 | **Interpretation of Results** | Model evaluation and interpretation |
-| **Visualization** | Visualizing decision trees |
+| **Visualization** | Visualizing the confusion matrix |
 | **Model's Performance and Evaluation** | Analysis and comparison of models |
