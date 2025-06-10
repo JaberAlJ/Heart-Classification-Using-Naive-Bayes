@@ -7,7 +7,7 @@ This repository implements a Naive Bayes classification model to predict the pre
 
 ---
 
-## 1. 📝 Project Overview
+## 1. 📝 Repository Overview
 
 This repository explores a heart disease dataset using the Naive Bayes classification technique. The aim is to accurately classify patients based on clinical features as having heart disease or not.
 
@@ -15,7 +15,7 @@ This repository explores a heart disease dataset using the Naive Bayes classific
 
 ## 2. 📦 Library Imports
 
-Essential Python libraries used in this project include:
+Essential Python libraries used in this repository include:
 
 - `pandas` – data manipulation
 - `numpy` – numerical operations
